@@ -1,0 +1,4 @@
+# Trivy findings that are deliberate. Each entry says why.
+# None: the module has no deliberate findings. The SNS subscription example ignores one
+# finding inline, with its reason, on the example's own topic.
+misconfigurations: []
